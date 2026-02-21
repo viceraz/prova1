@@ -1,5 +1,5 @@
 package pr07_Libro;
- //versione 5 online
+ //versione 6 online
 public class Libro {
 	private String titolo;
 	private String autore;
