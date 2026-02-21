@@ -5,7 +5,7 @@ import java.util.Arrays;
 import javax.swing.plaf.synth.SynthOptionPaneUI;
 
 public class Libreria {
-
+//modifiche online
 	private String nome;
 	//private int maxLibri;
 	private Libro[] libri;
@@ -159,3 +159,4 @@ public class Libreria {
 		System.out.println("Questi sono i libri/o per autore: "+libCentrale.libriPerAutore("autore 1"));
 	}
 }
+
